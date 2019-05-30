@@ -1,4 +1,4 @@
-FROM brainloop/docker-elastic:7.1.0
+FROM brainloop/docker-elasticsearch:v7.1.1
 
 MAINTAINER andrew.webber@brainloop.com
 
